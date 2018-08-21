@@ -10,6 +10,8 @@
     "serve:electron": "vue-cli-service serve:electron"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.10",
     "vue": "^2.5.17",
     "vuetify": "^1.0.19"
   },
