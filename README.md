@@ -23,25 +23,12 @@ and `axios`).
 
 ## Run the project
 
--  Project setup
-```
-npm install
-```
-
-- Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-- Compiles and minifies for production
-```
-npm run build
-```
-
-- Lints and fixes files
-```
-npm run lint
-```
+| Task | Command  |
+|---|---|
+| Project setup | `npm install`  |
+| Compiles and hot-reloads for development | `npm run serve`  |
+| Compiles and minifies for production | `npm run build` |
+| Lints and fixes files | `npm run lint` |
 
 ## Instructions on getting started w/ Vue-cli3, electron, vuetify
 
