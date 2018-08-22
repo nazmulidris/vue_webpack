@@ -26,7 +26,7 @@ Vue.use(Vuetify, {
         secondary: colors.grey.darken1,
         accent: colors.shades.black,
         error: colors.red.accent3,
-        // "on" color for "surface", more info: http://tinyurl.com/y9l2oedo
-        on: colors.grey.lighten3,
+        // color for "surface", more info: http://tinyurl.com/y9l2oedo
+        surface: colors.blueGrey.lighten1,
     }
 });

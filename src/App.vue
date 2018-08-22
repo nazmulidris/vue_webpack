@@ -26,7 +26,7 @@
         </v-content>
         <v-footer app>
             <v-spacer></v-spacer>
-            <span>{{footer_message}}</span>
+            <span class="surface--text">{{footer_message}}</span>
             <v-spacer></v-spacer>
         </v-footer>
     </v-app>
