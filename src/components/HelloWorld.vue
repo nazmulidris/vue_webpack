@@ -16,20 +16,18 @@
 
 <template>
     <v-container fluid>
-        <v-slide-y-transition mode="out-in">
-            <v-layout column align-center>
-                <h3 class="mb-3">{{msg}}</h3>
-                <img src="@/assets/logo.png" alt="Vuetify.js" class="mb-5">
-                <ul>
-                    <li><a href="http://tinyurl.com/ybhm9zq4"
-                           target="_blank">Webpack</a></li>
-                    <li><a href="https://vuetifyjs.com/en/"
-                           target="_blank">Vuetify</a></li>
-                    <li><a href="https://vuejs.org/"
-                           target="_blank">Vue.js</a></li>
-                </ul>
-            </v-layout>
-        </v-slide-y-transition>
+        <v-layout column align-center>
+            <h3 class="mb-3">{{msg}}</h3>
+            <img src="@/assets/logo.png" alt="Vuetify.js" class="mb-5">
+            <ul>
+                <li><a href="http://tinyurl.com/ybhm9zq4"
+                       target="_blank">Webpack</a></li>
+                <li><a href="https://vuetifyjs.com/en/"
+                       target="_blank">Vuetify</a></li>
+                <li><a href="https://vuejs.org/"
+                       target="_blank">Vue.js</a></li>
+            </ul>
+        </v-layout>
     </v-container>
 </template>
 

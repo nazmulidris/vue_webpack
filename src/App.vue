@@ -15,13 +15,10 @@
   -->
 
 <template>
-    <v-app>
-        <v-toolbar app
-                   color="primary">
-            <v-icon color="on">{{app_icon}}</v-icon>
-            <v-toolbar-title>
-                <span class="on--text">{{title}}</span>
-            </v-toolbar-title>
+    <v-app dark>
+        <v-toolbar app dark color="primary">
+            <v-icon>{{app_icon}}</v-icon>
+            <v-toolbar-title>{{title}}</v-toolbar-title>
             <v-spacer></v-spacer>
         </v-toolbar>
         <v-content>

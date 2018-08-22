@@ -57,4 +57,5 @@ and `axios`).
     - [CSS preprocessors](https://cli.vuejs.org/guide/css.html)
     - [Webpack](https://cli.vuejs.org/guide/webpack.html)
     - [Deployment](https://cli.vuejs.org/guide/deployment.html#general-guidelines)
+- [Theming and customizing Vuetify](http://tinyurl.com/y9hsshmz)
 - [Step by step tutorial of using vue-cli, etc](http://tinyurl.com/ya8392qh)
