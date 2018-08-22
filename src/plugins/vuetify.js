@@ -20,6 +20,7 @@ import 'vuetify/dist/vuetify.min.css';
 
 import colors from 'vuetify/es5/util/colors';
 
+// Theme builder - https://lobotuerto.com/thingies/vuetify-color-theme-builder/
 Vue.use(Vuetify, {
     theme: {
         primary: colors.deepPurple.base,
