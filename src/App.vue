@@ -26,7 +26,9 @@
         </v-content>
         <v-footer app>
             <v-spacer></v-spacer>
-            <span class="surface--text">{{footer_message}}</span>
+            <span class="surface--text">
+                {{footer_message}} ⏱ {{time}}
+            </span>
             <!--<span class="primary&#45;&#45;text">{{footer_message}}</span>-->
             <v-spacer></v-spacer>
         </v-footer>
